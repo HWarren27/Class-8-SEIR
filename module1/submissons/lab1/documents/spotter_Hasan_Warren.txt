@@ -1,0 +1,29 @@
+spotter_Hasan_Warren
+
+Five things that I learned.
+
+
+I learned how COBOL is utilized and why it has not been replaced.
+
+2. A.I.'s answers must be checked at all times.  Claude was incorrect in the assessment of window 2 in the runbook.  During class on Saturday 10/31/2026. I was able to run window 2 (step-6) without adding the extra command Claude suggested (source venv/bin/activate). I did not receiving an error message on step six.
+
+3. I learned the importance of understanding the basics of deploying an EC2 instance.  This foundation made it easier to complete lab 1 by deploying multiple EC2 instances.
+
+4. Selecting the correct database depends on what your attempting to build is vital. During the Udemy lesson an example was given utilizing a graph database (Neptune) to help query things on a social media websites.
+
+5. Replacing a COBOL system is very costly and time consuming.
+
+
+Five things that Joshua learned.
+
+
+He learned when SSH-ing into his EC2 instance he encountered code-130.  This code means that the signal was interrupted.  His previous command of ctrl + c interrupted the signal causing the error.  He ran the command COBOL account lookup, which corrected the error and then he was able to receive code 0.
+
+2. The importance of exit codes.  When we ren test the exit codes can help troubleshoot the problem.
+
+3. An amount must be in the account when making a transaction or nothing will be transferred. Code -12 relative paths are important.
+
+4. Joshua learned to deploy multiple EC2 instances, SSH-ing into those instances to verify that they worked, and installing git multiple times.
+
+5. The final thing that Joshua learned is if the application works once, it does not mean it will work again.  He understood how important it is to build your application correctly.
+

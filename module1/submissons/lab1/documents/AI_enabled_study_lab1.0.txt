@@ -1,0 +1,15 @@
+AI_enabled_study_lab1.0
+
+
+COBOL (Common Business-Oriented Language)
+
+CODASYL (Conference/Committee on Data Systems Languages) designed COBOL is 1959.  It was partly based on the programming language FLOW-MATIC.   Since being standardized in 1968, it has been revised five times.  It is estimated that about 800 billion lines of COBOL are in production use (Micro Focus Survey, 2022).  About 43% of banking systems are built on COBOL (Reuters, 2017).  The value of system cannot be measured due to two reasons.  The cost of replacing COBOL is estimated to be well over a trillion dollars.  Furthermore, migration projects ran in Australia cost the country about AUD 1 billion which is about $750 million USD.  That project lasted about five years, Australia was replacing its core COBOL banking system (AI Claude). 
+
+
+Sources
+
+Article -  https://en.wikipedia.org/wiki/COBOL
+
+Video - https://www.youtube.com/watch?v=7d7-etf-wNI
+
+A.I. - Claude

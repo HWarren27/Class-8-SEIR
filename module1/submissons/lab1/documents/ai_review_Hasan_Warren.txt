@@ -1,0 +1,83 @@
+ai_review_Hasan_Warren
+
+
+Question-1
+
+Claude you stated that Window 2 never activates the Python environment.  When I completed this lab I did not run into any errors that prevented me from completing steps 0 through 4?
+
+Claude's Reply in my words
+
+Claude stated my response is what would happen in Window 1.  Claude's concern was step six, the traffic generator, in window 2.  A problem could arise depending on how the generator was written.
+
+How I assessed Claude's response?
+
+I was able to run step six without adding Claude's suggestion.  I did not receive any errors.
+
+
+Question-2
+
+Claude please explain what would be the best way to trigger return codes 0, 4, 8 and 12?
+
+
+Claude's Reply in my words
+
+Claude suggested that I utilize account_lookup to trigger codes 0 and 4, payment_post to trigger code 8, and to run a program from an incorrect folder for code 12.
+
+How I assessed Claude's response?
+
+I assessed Claude's response by utilizing the commands.  Each of the suggestions did work.
+
+
+Question-3
+
+Claude could you explain the TXN ID to me?
+
+
+Claude's Reply in my words
+
+Claude explained the TXN ID is the transaction id.  A list was provided displaying each part of the command and providing its meaning.  It was also explained to ne why the bank requires a TXN ID.  The ledger layout was explained as well displaying the numbered columns, their field and the width.
+
+
+How I assessed Claude's response?
+
+I tested this response by comparing the run book with Claude's response.
+
+
+Question-4
+
+Would the customer's reference always be 1001?
+
+
+Claude's Reply in my words
+
+No, the reference is so the customer can tell what the payment is for.  Claude stated that two payments can even share the same reference because the TXN ID is what keeps them separate.
+
+
+
+How I assessed Claude's response?
+
+I tested this response by trying a command for myself.
+
+
+Question-5
+
+Claude how would I decode the fixed ledger by using the command cut -c?
+
+
+Claude's Reply in my words
+
+It was stated that cut -c pulls out characters by its position.
+
+
+How I assessed Claude's response?
+
+I tested Claude's response by entering the command "cut -c1-6 data/accounts.dat".  The response I received after entering that command was:
+100001
+100002
+100003
+
+
+
+Where Claude was wrong
+
+Claude was incorrect in the assessment of window 2.  During class on Saturday 10/31/2026. I was able to run window 2 without adding the extra command Claude suggested (source venv/bin/activate). I did not receiving an error message on step six.
