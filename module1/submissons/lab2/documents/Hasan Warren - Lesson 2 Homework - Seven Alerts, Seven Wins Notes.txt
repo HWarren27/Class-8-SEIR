@@ -1,0 +1,11 @@
+Hasan Warren - Lesson 2 Homework - Seven Alerts, Seven Wins Notes
+
+
+
+I predicted that three messages will arrive.  I was incorrect because four messages arrived.  I forgot to account for the "WARNING" severity level.
+
+
+Kill switches are useful during a maintenance windows because they display a message informing the user and it can limit the damage while keeping the rest of the system running.
+
+
+The severity changed to "WARNING" when I altered the number to 10, which was far below my disk usage of 21.5.
